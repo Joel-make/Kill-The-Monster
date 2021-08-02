@@ -125,7 +125,7 @@ function draw() {
     textSize(25)
     stroke("black")
     fill("black")
-    text("Got the victory?. Press space to listen to victory song",10,50);
+    text("Got the victory?. Press space key to listen to victory song",10,50);
     pop();
   }
 }
